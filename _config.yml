@@ -1,17 +1,16 @@
 # Site settings
-title: Jenny Chan
-email: jenny.chan@upf.edu
+title: JC
+email: jc@upf.edu
 description: > # this means to ignore newlines until "baseurl:"
   I'm a PhD Candidate in the Department of Economics at UPF.
-  I study monetary policy.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://jenncha.github.io" # the base hostname & protocol for your site
-twitter_username: jchilla1031
-github_username:  jenncha
+twitter_username: jc
+github_username:  jc
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
-theme: slate
+theme: minima
