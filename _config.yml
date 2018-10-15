@@ -1,6 +1,6 @@
 # Site settings
 title: Jenny Chan
-email: jenny [dot] chan [at] upf [dot] edu
+email: jenny.chan@upf.edu
 description: > # this means to ignore newlines until "baseurl:"
   I'm a PhD Candidate in the Department of Economics at UPF.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
