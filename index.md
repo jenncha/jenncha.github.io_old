@@ -3,7 +3,7 @@ layout: default
 ---
 <head>
   <title>Jenny Chan PhD Candidate UPF</title>
-  <meta  name="Description"   content="Jenny Chan economics UPF PhD Candidate">
+  <meta  name="Description"   content="jenny chan upf economics phd candidate">
 </head>
 
 <p align="center">
