@@ -16,7 +16,7 @@ I am a PhD candidate in Economics at the Universitat Pompeu Fabra (UPF) and Barc
 
 I will be available for interviews at the SAEe in Madrid, EEA in Naples, and ASSA meeting in Atlanta.
 
-Here is my [CV](https://www.dropbox.com/s/utflwqdqxadxkkv/CV_JChan_new3.pdf?dl=0) and [job market paper](https://www.dropbox.com/s/lijn2c53uech9ig/ChanJ_JMP.pdf?dl=0).
+Here is my [CV](https://www.dropbox.com/s/utflwqdqxadxkkv/CV_JChan_new3.pdf?dl=0) and [job market paper](https://www.dropbox.com/s/i4abv19xblmy6ve/main.pdf?dl=0).
 
 <!--Here's how you link to a [webpage in your site](/teaching/), and
 here's a link to an [external site](https://www.google.com)
