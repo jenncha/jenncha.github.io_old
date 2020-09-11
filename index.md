@@ -15,7 +15,7 @@ I am a Research Economist in the Monetary Strategy Team at the [Bank of England]
 This website is used to disseminate my work publicly. The views expressed on this site are my own and cannot be taken to represent those of the Bank of England or any of its policy committees. 
 <br>
 
-[CV] (https://www.dropbox.com/s/utflwqdqxadxkkv/CV_JChan_new3.pdf?dl=0) <br>
+[CV](https://www.dropbox.com/s/utflwqdqxadxkkv/CV_JChan_new3.pdf?dl=0) <br>
 [Google scholar](https://scholar.google.com/citations?user=dgKcbZoAAAAJ&hl=en) <br>
 <br> 
 
@@ -28,7 +28,7 @@ Email: jenny.chan@bankofengland.co.uk <br>
 
 <br> <br>
 
-Working Papers
+**Working Papers**
 
 *[Monetary Policy and Sentiment Driven Fluctuations](http://www.centreformacroeconomics.ac.uk/Discussion-Papers/2020/CFMDP2020-20-Paper.pdf)* <br> 
 *Centre for Macroeconomics Discussion Paper 2020-20* <br>
