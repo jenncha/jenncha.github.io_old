@@ -15,7 +15,7 @@ I am a Research Economist in the Monetary Strategy Team at the [Bank of England]
 This website is used to disseminate my work publicly. The views expressed on this site are my own and cannot be taken to represent those of the Bank of England or any of its policy committees. 
 <br>
 
-[CV](https://www.dropbox.com/s/utflwqdqxadxkkv/CV_JChan_new3.pdf?dl=0) <br>
+[CV](https://github.com/jenncha/cv/raw/main/CV_JChan_Sept2020.pdf) <br>
 [Google scholar](https://scholar.google.com/citations?user=dgKcbZoAAAAJ&hl=en) <br>
 <br> 
 
@@ -30,7 +30,7 @@ Email: jenny.chan@bankofengland.co.uk <br>
 
 **Working Papers**
 
-*[Monetary Policy and Sentiment Driven Fluctuations](http://www.centreformacroeconomics.ac.uk/Discussion-Papers/2020/CFMDP2020-20-Paper.pdf)* <br> 
+*[Monetary Policy and Sentiment Driven Fluctuations](http://https://github.com/jenncha/jmp/raw/main/main_Chan.pdf)* <br> 
 *Centre for Macroeconomics Discussion Paper 2020-20* <br>
 I study optimal monetary policy in the presence of non-fundamental sources of fluctuations. Beliefs about aggregate demand can be self-fulfilling in models departing slightly from the complete information benchmark in the New Keynesian framework. Through its effect on aggregate variables, the stance of policy determines the precision of endogenous signals that firms receive, and consequently, the degree of coordination in firms’ production (pricing) decision. As a result, the distribution of non-fundamental shocks is no longer independent of policy, introducing a novel trade-off between stabilizing output and inflation. Both strong inflation targeting and nominal flexibilities increase the variance of non-fundamental shocks, which are shown to be suboptimal. The Taylor rule is no longer sufficient to rule out indeterminacy. Instead, an interest rate rule that places sufficiently low weight on inflation eliminates non-fundamental volatility and hence the output-inflation trade-off. While these results extend to the case where fluctuations are driven by both fundamental and non-fundamental shocks, a policymaker unable to distinguish between the two sources cannot eliminate non-fundamental volatility. <br> <br>
 
@@ -41,7 +41,7 @@ Presentations: *ESCB Workshop on Monetary Economics (upcoming), Bank of Finland 
 
 <br> <br> 
 
-Here is my [CV](https://www.dropbox.com/s/utflwqdqxadxkkv/CV_JChan_new3.pdf?dl=0) and [job market paper](https://www.dropbox.com/s/i4abv19xblmy6ve/main.pdf?dl=0).
+Here is my [CV](https://github.com/jenncha/cv/raw/main/CV_JChan_Sept2020.pdf) and [job market paper](https://www.dropbox.com/s/i4abv19xblmy6ve/main.pdf?dl=0).
 
 Here's how you link to a [webpage in your site](/teaching/), and
 here's a link to an [external site](https://www.google.com)
