@@ -1,8 +1,8 @@
 # Site settings
 title: Jenny Chan
-email: jenny.chan@upf.edu
+email: jenny.chan@bankofengland.co.uk
 #description: > # this means to ignore newlines until "baseurl:"
-#  I'm a PhD Candidate in the Department of Economics at UPF.
+#  Research Economist at the Bank of England.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://jenncha.github.io" # the base hostname & protocol for your site
 #twitter_username: jc
