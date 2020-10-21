@@ -6,9 +6,11 @@ layout: default
   <meta  name="Description"   content="jenny chan upf economics phd candidate">
 </head>
 
+<!--
 <p align="center">
   <img width="40%" height="40%" src="/assets/Final_1_mod4.jpg" align="right">
 </p>
+-->
 
 I am a Research Economist in the Monetary Strategy Team at the [Bank of England](https://www.bankofengland.co.uk/) and a member of the Centre for Macroeconomics. I received my Ph.D. in Economics from Universitat Pompeu Fabra in 2019. My research interests include macroeconomics, monetary policy, and information frictions. <br> 
 
