@@ -20,13 +20,14 @@ This website is used to disseminate my work publicly. The views expressed on thi
 <br><br>
 
 **Working Papers** <br><br>
-*[Monetary Policy and Sentiment Driven Fluctuations](https://github.com/jenncha/jmp/raw/main/main_Chan.pdf)* <br> 
+*[Monetary Policy and Sentiment Driven Fluctuations](https://github.com/jenncha/jmp/blob/main/ChanJ_JMP.pdf)* <br> 
 *Centre for Macroeconomics Discussion Paper 2020-20* <br>
 I study optimal monetary policy in the presence of non-fundamental sources of fluctuations. Beliefs about aggregate demand can be self-fulfilling in models departing slightly from the complete information benchmark in the New Keynesian framework. Through its effect on aggregate variables, the stance of policy determines the precision of endogenous signals that firms receive, and consequently, the degree of coordination in firms’ production (pricing) decision. As a result, the distribution of non-fundamental shocks is no longer independent of policy, introducing a novel trade-off between stabilizing output and inflation. Both strong inflation targeting and nominal flexibilities increase the variance of non-fundamental shocks, which are shown to be suboptimal. The Taylor rule is no longer sufficient to rule out indeterminacy. Instead, an interest rate rule that places sufficiently low weight on inflation eliminates non-fundamental volatility and hence the output-inflation trade-off. While these results extend to the case where fluctuations are driven by both fundamental and non-fundamental shocks, a policymaker unable to distinguish between the two sources cannot eliminate non-fundamental volatility. <br> <br>
 
 **Work in Progress** <br> <br>
-Sentiments, Noise, and Uncertainty <br>
-Non-fundamental Fluctuations and Unconventional Monetary Policy (with Derrick Kanngiesser) <br> <br>
+Sticky Production and Monetary Policy (with Sebastian Diz and Derrick Kanngiesser) <br>
+Non-fundamental Fluctuations and Unconventional Monetary Policy (with Derrick Kanngiesser) <br>
+Sentiments, Noise, and Uncertainty <br><br>
 
 **Contact Information** <br> <br>
 Bank of England <br>
