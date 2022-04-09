@@ -20,13 +20,14 @@ This website is used to disseminate my work publicly. The views expressed on thi
 <br><br>
 
 **Working Papers** <br><br>
-*[Monetary Policy and Sentiment Driven Fluctuations](https://raw.githubusercontent.com/jenncha/jmp/main/main_Chan.pdf)* (submitted) <br> 
+*[Monetary Policy and Sentiment Driven Fluctuations](https://raw.githubusercontent.com/jenncha/jmp/main/main_Chan.pdf)* (under review) <br> 
 *Centre for Macroeconomics Discussion Paper 2020-20* <br>
 I study optimal monetary policy in the presence of non-fundamental sources of fluctuations. Beliefs about aggregate demand can be self-fulfilling in models departing slightly from the complete information benchmark in the New Keynesian framework. Through its effect on aggregate variables, the stance of policy determines the precision of endogenous signals that firms receive, and consequently, the degree of coordination in firms’ production (pricing) decision. As a result, the distribution of non-fundamental shocks is no longer independent of policy, introducing a novel trade-off between stabilizing output and inflation. Both strong inflation targeting and nominal flexibilities increase the variance of non-fundamental shocks, which are shown to be suboptimal. The Taylor rule is no longer sufficient to rule out indeterminacy. Instead, an interest rate rule that places sufficiently low weight on inflation eliminates non-fundamental volatility and hence the output-inflation trade-off. While these results extend to the case where fluctuations are driven by both fundamental and non-fundamental shocks, a policymaker unable to distinguish between the two sources cannot eliminate non-fundamental volatility. <br> <br>
 
 **Work in Progress** <br> <br>
+Energy Prices and Household Heterogeneity: Monetary Policy in a Gas Tank (with Sebastian Diz and Derrick Kanngiesser) <br>
 Sticky Production and Monetary Policy (with Sebastian Diz and Derrick Kanngiesser) <br>
-Non-fundamental Fluctuations and Unconventional Monetary Policy (with Derrick Kanngiesser) <br>
+Non-fundamental Fluctuations and Unconventional Monetary Policy (with Sebastian Diz and Derrick Kanngiesser) <br>
 Sentiments, Noise, and Uncertainty <br><br>
 
 **Contact Information** <br> <br>
@@ -40,7 +41,7 @@ Email: jenny.chan@bankofengland.co.uk <br>
 <br> <br>
 
 <!--
-Presentations: *ESCB Workshop on Monetary Economics (upcoming), Bank of Finland and CEPR 2020 Joint Conference on Monetary Policy Tools and Their impact on the Macroeconomy (upcoming), EEA 2020, 18th Workshop on Macroeconomic Dynamics at the Universita di Pavia, SAEe 2018, XXIII Workshop on Dynamic Macroeconomics at Universidade de Vigo*
+Presentations: *T2M (Theories and Methods in Macro) 2022, European Winter Meeting of the Econometric Society 2021, LSE CfM London Workshop 2021, Czech National Bank Conference on Expectations in Dynamic Macroeconomic Models, RES Annual Conference 2021, ESCB Research Cluster on Monetary Economics - Fourth Annual Workshop, ESCB Workshop on Monetary Economics (upcoming), Bank of Finland and CEPR 2020 Joint Conference on Monetary Policy Tools and Their impact on the Macroeconomy (upcoming), EEA 2020, 18th Workshop on Macroeconomic Dynamics at the Universita di Pavia, SAEe 2018, XXIII Workshop on Dynamic Macroeconomics at Universidade de Vigo*
 <br> 
  
 
