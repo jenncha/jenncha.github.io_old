@@ -14,7 +14,7 @@ I am a Research Economist in the Monetary Strategy Team at the [Bank of England]
 
 This website is used to disseminate my work publicly. The views expressed on this site are my own and cannot be taken to represent those of the Bank of England or any of its policy committees. 
 <br>
-[CV](https://docs.google.com/viewer?url=${https://github.com/jenncha/cv/blob/main/CV_JChan_Apr2022_v2.pdf?raw=true}) <br>
+[CV](https://docs.google.com/viewer?url=https://github.com/jenncha/cv/blob/main/CV_JChan_Apr2022_v2.pdf?raw=true) <br>
 [Google scholar](https://scholar.google.com/citations?user=dgKcbZoAAAAJ&hl=en) <br>
 <br><br>
 
